@@ -9,6 +9,8 @@
 
 ### Connect with me:
 
+---
+
 [![website](https://img.shields.io/badge/-Website-5865F2?style=flat-square&logo=internetexplorer&logoColor=white)](#gh-light-mode-only)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-fiyinfoluwa-92a043259)
 [![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fiyin_astute)
