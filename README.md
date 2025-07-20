@@ -2,8 +2,8 @@
 
 ## I'm a Data Scientist and part-time Forex trader(lies.....still learning) 🤣
 
-### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=astuteIsrael&show_icons=true&theme=radical)
+### 🛠️ Tech Stack  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7A7&width=435&lines=Python+%7C+Pandas+%7C+SQL;Data+Science+%7C+Machine+Learning;HTML+%7C+CSS+%7C+Bootstrap" alt="Animated Tech Stack" />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
