@@ -5,11 +5,14 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Learn more!!
-- ⚡ Fun fact: I really love Finance World (Forex, Indices, Options, Stocks, etc)
+- ⚡ Fun fact: I really love Finance World (Forex, Indices, Options, Stocks.....You get the point😜)
+
+### 📈 Skills Level  
+Python: ⭐⭐⭐⭐⭐  
+Data Analysis: ⭐⭐⭐⭐  
+Machine Learning: ⭐⭐⭐
 
 ### Connect with me:
-
-***
 
 [![website](https://img.shields.io/badge/-Website-5865F2?style=flat-square&logo=internetexplorer&logoColor=white)](#gh-light-mode-only)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-fiyinfoluwa-92a043259)
@@ -39,5 +42,7 @@
 <!-- [<img align="left" alt="BeautifulSoup" width="26px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/bs4.png" style="padding-right:10px;" />](https://www.crummy.com/software/BeautifulSoup/) -->
 <!-- [<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" style="padding-right:10px;" />](https://matplotlib.org/) -->
 
+### 🎧 Now Playing  
+[![Spotify](https://spotify-readme-astuteisrael.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 <br />
 <br />
