@@ -40,7 +40,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:20px;" />](https://seaborn.pydata.org/)
+[<img align="left" alt="Seaborn" width="26px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.png" style="padding-right:10px; background-color:white; border-radius:4px;" />](https://seaborn.pydata.org/)
 <!-- [<img align="left" alt="BeautifulSoup" width="26px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/bs4.png" style="padding-right:10px;" />](https://www.crummy.com/software/BeautifulSoup/) -->
 <!-- [<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" style="padding-right:10px;" />](https://matplotlib.org/) -->
 
