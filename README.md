@@ -10,10 +10,6 @@
 - 🥅 2025 Goals: Learn more!!
 - ⚡ Fun fact: I really love Finance World (Forex, Indices, Options, Stocks.....You get the point😜)
 
-### 📈 Skills Level  
-Python: ⭐⭐⭐⭐⭐  
-Data Analysis: ⭐⭐⭐⭐  
-Machine Learning: ⭐⭐⭐
 
 ### Connect with me:
 
