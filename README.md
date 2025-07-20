@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Learn more!!
-- ⚡ Fun fact: I really love Finance World (Forex, Indices, Options, Stocks.....You get the point😜)
+- ⚡ Fun fact: I really love the Finance World (Forex, Indices, Options, Stocks.....You get the point😜)
 
+
+### Connect with me:
 
 ### Connect with me:
 
@@ -17,6 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-fiyinfoluwa-92a043259)
 [![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fiyin_astute)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/astuteIsrael)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:israelfiyin28@gmail.com)
 
 ### Languages and Tools:
 
