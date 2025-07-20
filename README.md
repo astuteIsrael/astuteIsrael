@@ -20,6 +20,20 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/astuteIsrael)
 [![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:israelfiyin28@gmail.com)
 
+### Connect with me:
+
+[<img src="./img/globe-light.svg#gh-light-mode-only" alt="Portfolio" width="26px" style="padding-right:10px;"/>](#)
+[<img src="./img/globe-dark.svg#gh-dark-mode-only" alt="Portfolio" width="26px" style="padding-right:10px;"/>](#)
+[<img src="./img/linkedin-light.svg#gh-light-mode-only" alt="LinkedIn" width="26px" style="padding-right:10px;"/>](https://linkedin.com/in/israel-fiyinfoluwa-92a043259)
+[<img src="./img/linkedin-dark.svg#gh-dark-mode-only" alt="LinkedIn" width="26px" style="padding-right:10px;"/>](https://linkedin.com/in/israel-fiyinfoluwa-92a043259)
+[<img src="./img/twitter-light.svg#gh-light-mode-only" alt="Twitter" width="26px" style="padding-right:10px;"/>](https://x.com/fiyin_astute)
+[<img src="./img/twitter-dark.svg#gh-dark-mode-only" alt="Twitter" width="26px" style="padding-right:10px;"/>](https://x.com/fiyin_astute)
+[<img src="./img/github-light.svg#gh-light-mode-only" alt="GitHub" width="26px" style="padding-right:10px;"/>](https://github.com/astuteIsrael)
+[<img src="./img/github-dark.svg#gh-dark-mode-only" alt="GitHub" width="26px" style="padding-right:10px;"/>](https://github.com/astuteIsrael)
+[<img src="./img/email-light.svg#gh-light-mode-only" alt="Email" width="26px" style="padding-right:10px;"/>](mailto:israelfiyin28@gmail.com)
+[<img src="./img/email-dark.svg#gh-dark-mode-only" alt="Email" width="26px" style="padding-right:10px;"/>](mailto:israelfiyin28@gmail.com)
+
+
 ### Languages and Tools:
 
 ---
