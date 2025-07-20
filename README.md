@@ -2,6 +2,9 @@
 
 ## I'm a Data Scientist and part-time Forex trader(lies.....still learning) 🤣
 
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=astuteIsrael&show_icons=true&theme=radical)
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Learn more!!
@@ -44,6 +47,3 @@ Machine Learning: ⭐⭐⭐
 
 <br />
 <br />
-
-### 🎧 Now Playing  
-[![Spotify](https://spotify-readme-astuteisrael.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
