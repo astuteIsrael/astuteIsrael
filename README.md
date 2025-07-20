@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
----
+***
 
 [![website](https://img.shields.io/badge/-Website-5865F2?style=flat-square&logo=internetexplorer&logoColor=white)](#gh-light-mode-only)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-fiyinfoluwa-92a043259)
