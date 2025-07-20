@@ -42,7 +42,8 @@ Machine Learning: ⭐⭐⭐
 <!-- [<img align="left" alt="BeautifulSoup" width="26px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/bs4.png" style="padding-right:10px;" />](https://www.crummy.com/software/BeautifulSoup/) -->
 <!-- [<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" style="padding-right:10px;" />](https://matplotlib.org/) -->
 
+<br />
+<br />
+
 ### 🎧 Now Playing  
 [![Spotify](https://spotify-readme-astuteisrael.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-<br />
-<br />
