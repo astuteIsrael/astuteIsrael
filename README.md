@@ -9,20 +9,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
-<!-- Replace # with your website link later -->
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/israel-fiyinfoluwa-92a043259#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/israel-fiyinfoluwa-92a043259#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Twitter/X](./img/twitter-light.svg)](https://x.com/fiyin_astute#gh-light-mode-only)
-[![Twitter/X](./img/twitter-dark.svg)](https://x.com/fiyin_astute#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![GitHub](./img/github-light.svg)](https://github.com/astuteIsrael#gh-light-mode-only)
-[![GitHub](./img/github-dark.svg)](https://github.com/astuteIsrael#gh-dark-mode-only)
+[![website](https://img.shields.io/badge/-Website-5865F2?style=flat-square&logo=internetexplorer&logoColor=white)](#gh-light-mode-only)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-fiyinfoluwa-92a043259)
+[![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fiyin_astute)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/astuteIsrael)
 
 ### Languages and Tools:
+
+---
 
 [<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
