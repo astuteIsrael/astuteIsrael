@@ -7,12 +7,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: echo "Dynamic content here" >> README.md
-      - uses: actions/github-script@v5
+      
+      - name: Update README
+        run: echo "Dynamic content here - Last updated: $(date)" >> README.md
+        
+      - name: Get README SHA (required for update)
+        id: get-sha
+        uses: actions/github-script@v5
         with:
           script: |
-            github.rest.repos.update({
+            const { data } = await github.rest.repos.getContent({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              content: fs.readFileSync('README.md', 'utf8')
+              path: 'README.md'
+            });
+            return data.sha;
+      
+      - name: Commit updated README
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const fs = require('fs');
+            const content = fs.readFileSync('README.md', 'utf8');
+            
+            await github.rest.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: 'README.md',
+              message: 'docs: Auto-update README',
+              content: Buffer.from(content).toString('base64'),
+              sha: '${{ steps.get-sha.outputs.result }}'
             });
