@@ -1,11 +1,1 @@
-- name: Update README
-  uses: JamesIves/github-pages-deploy-action@v4
-  with:
-    branch: main
-    folder: .
-    single-commit: true
-    commit-message: "docs: Auto-update README"
-    clean: false
-    clean-exclude: |
-      *
-      !README.md
+
